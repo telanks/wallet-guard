@@ -285,7 +285,7 @@ Designed for testing and validation.
    - Discord
    - Telegram
 
-- Custom alert thresholds
+   Custom alert thresholds
 
 - 🔜 Phase 4
 
