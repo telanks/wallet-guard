@@ -310,6 +310,14 @@ Wallet Guardian does not:
 
 ---
 
+## Project screenshot
+![HOME PAGE](https://github.com/telanks/wallet-guard/blob/main/img/1.png)
+![WHITE LIST](https://github.com/telanks/wallet-guard/blob/main/img/2.png)
+![Authorization Test](https://github.com/telanks/wallet-guard/blob/main/img/3.png)
+![Risk Events](https://github.com/telanks/wallet-guard/blob/main/img/4.png)
+
+---
+
 ## 🤝 Contributing
 
 This project is in active development.
