@@ -279,13 +279,12 @@ Designed for testing and validation.
 
 - 🔜 Phase 3
 
-   - 📩 External notifications:
+  📩 External notifications:
 
     - Email
     - Discord
     - Telegram
-
-   - Custom alert thresholds
+   Custom alert thresholds
 
 - 🔜 Phase 4
 
