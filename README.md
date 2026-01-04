@@ -288,7 +288,7 @@ Designed for testing and validation.
 
 - 🔜 Phase 4
 
-- 🚨 Emergency response
+  🚨 Emergency response
 
   - Fast asset transfer
   - Batch revoke
