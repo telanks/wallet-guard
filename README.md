@@ -57,7 +57,7 @@ Wallet Guardian is designed to:
 ### 2️⃣ Backend Setup
 
 ```bash
-cd wallet-guard
+cd wallet-guard-server
 npm install
 npm run dev
 
@@ -279,13 +279,13 @@ Designed for testing and validation.
 
 - 🔜 Phase 3
 
-   📩 External notifications:
+   - 📩 External notifications:
 
-   - Email
-   - Discord
-   - Telegram
+    - Email
+    - Discord
+    - Telegram
 
-   Custom alert thresholds
+   - Custom alert thresholds
 
 - 🔜 Phase 4
 
